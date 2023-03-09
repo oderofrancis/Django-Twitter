@@ -6,7 +6,7 @@ Django-Twitter is a web application built with Django that allows users to share
 
 To use Django-Twitter, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/django-twitter.git`
+1. Clone the repository to your local machine using `git clone https://github.com/oderofrancis/Django-Twitter.git`
 2. Install the required packages by running `pip install -r requirements.txt`
 3. Create a new file called `.env` in the root directory and add the following:
 4. Run the migrations with `python manage.py migrate`
